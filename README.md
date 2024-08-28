@@ -12,7 +12,7 @@ DGVAE is based on Variational Graph Auto-Encoder (VGAE):
 T. N. Kipf, M. Welling, [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308), NIPS Workshop on Bayesian Deep Learning (2016)
 
 ## Requirements
-* pytorch 1.7.1
+* pytorch 
 * python 3.12
 * networkx
 * scikit-learn
@@ -20,9 +20,9 @@ T. N. Kipf, M. Welling, [Variational Graph Auto-Encoders](https://arxiv.org/abs/
 
 ## Create Virtual Environment
 
-conda create -n DGVAE python=3.12
-conda activate DGVAE
-pip install -r requirements.txt
+* conda create -n DGVAE python=3.12
+* conda activate DGVAE
+* pip install -r requirements.txt
 
 ## Run Demo
 
